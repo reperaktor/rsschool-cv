@@ -45,4 +45,4 @@ function toCamelCase(str){
 
 
 
-![avatar](https://instagram.ftbs6-2.fna.fbcdn.net/v/t51.2885-15/71220207_513459526099836_4621429149952966949_n.jpg?stp=c0.135.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftbs6-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=4OD7dMIAeLsAX-4zRnf&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDCZ6vWu4vK_0pdXL2GLalMNuvALYlqWHSvoOxkwzc2AQ&oe=64A6346E&_nc_sid=8b3546 "my avatar")
+![avatar](https://sun9-41.userapi.com/impf/c851428/v851428657/1b330c/I9vVupt5peI.jpg?size=1385x2160&quality=96&sign=995e55c7cd134eddc411232e0d181818&type=album "my avatar")
