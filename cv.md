@@ -3,8 +3,21 @@
 **Phone**: +375(29)-507-68-81  
 **E-mail**: reperaktor@mail.ru  
 **Telegram**: @kakelun
+****
+## About me
+I am a photographer who loves experiments.
+I am 22 years old and by education I am a paramedic.
+My goal is to learn new skills for my further development and career change.
+Me: easy to learn, communicative, open to new things and make every effort to achieve results.
+****
+## Skills
+* Adobe photoshop 
+* Lightroom
+* DaVinci resolve
+* Microsoft Office 
+* YouTube creator  
+* Using DSLR and mirrorles camera
 ***
-
 
 
 
