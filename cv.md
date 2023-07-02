@@ -29,6 +29,11 @@ function toCamelCase(str){
 }
 ```
 ****
+## Education 
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* Borisov State Medical College (2018 - 2021)
+* Basic photography courses (2018)
+****
 ## Language level
 * **English** - Pre-Intermediate
 * **Russian** - Native
