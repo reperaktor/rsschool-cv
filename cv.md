@@ -29,6 +29,11 @@ function toCamelCase(str){
 }
 ```
 ****
+## Language level
+* **English** - Pre-Intermediate
+* **Russian** - Native
+* **Belorussian** - Native
+****
 
 
 
