@@ -12,12 +12,12 @@ My goal is to learn new skills for my further development and career change.
 Me: easy to learn, communicative, open to new things and make every effort to achieve results.
 ****
 ## Skills
-* Adobe photoshop 
-* Lightroom
-* DaVinci resolve
-* Microsoft Office 
-* YouTube creator  
-* Using DSLR and mirrorles camera
++ Adobe photoshop 
++ Lightroom
++ DaVinci resolve
++ Microsoft Office 
++ YouTube creator  
++ Using DSLR and mirrorles camera
 
 ***
 ## Code example 
@@ -31,15 +31,15 @@ function toCamelCase(str){
 ```
 ****
 ## Education 
-* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-* Borisov State Medical College (2018 - 2021)
-* Basic photography courses (2018)
++ RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
++ Borisov State Medical College (2018 - 2021)
++ Basic photography courses (2018)
 
 ****
 ## Language level
-* **English** - Pre-Intermediate
-* **Russian** - Native
-* **Belorussian** - Native
++ **English** - Pre-Intermediate
++ **Russian** - Native
++ **Belorussian** - Native
 
 ****
 
